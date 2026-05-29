@@ -6,4 +6,5 @@ Image Source: [Alibaba](https://www.alibaba.com/showroom/coin-operated-coffee-ve
 
 
 A simplified implementation of a coin operated cofee vending machine.
-3 Cofee Flavors: Espesso/Latte/Cappucino
+
+3 Cofee Flavors: Espesso/Latte/Cappuccino
