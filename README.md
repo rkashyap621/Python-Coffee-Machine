@@ -5,6 +5,6 @@
 Image Source: [Alibaba](https://www.alibaba.com/showroom/coin-operated-coffee-vending-machine-for-sale.html)
 
 
-A simplified implementation of a coin operated cofee vending machine.
+A simplified implementation of a coin operated cofee vending machine using python OOP.
 
 3 Cofee Flavors: Espesso/Latte/Cappuccino
